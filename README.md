@@ -7,7 +7,7 @@
 
 <br>
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=ChulgooKim&amp;count_private=true&amp;hide=contribs,prs&amp;show_icons=true&amp;theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ChulgooKim&amp;layout=compact&amp;hide=Visual%20Basic)
+[![Github Stats](https://github-readme-stats.vercel.app/api?username=ChulgooKim&amp;count_private=true&amp;hide=contribs,prs&amp;show_icons=true&amp;theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chulgookim&amp;layout=compact&amp;hide=Visual%20Basic)
 
 <br>
 
@@ -28,5 +28,6 @@
 
 <div align = "center">
   
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ChulgooKim.github.io/)](https://ChulgooKim.github.io/) (https://www.facebook.com/profile.php?id=100000498178589) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kcgkyg@gmail.com)](mailto:kcgkyg@gmail.com)
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ChulgooKim.github.io/)](https://ChulgooKim.github.io/) 
+  [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kcgkyg@gmail.com)](mailto:kcgkyg@gmail.com)
 </div>
