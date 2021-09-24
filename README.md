@@ -11,7 +11,7 @@
 
 <br>
 
-[![Solved Ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kimyc1223)](https://solved.ac/ChulgooKim)
+[![Solved Ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=ChulgooKim)](https://solved.ac/ChulgooKim)
 
 
 
