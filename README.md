@@ -11,15 +11,15 @@
 
 <br>
 
-[![Solved Ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=ChulgooKim)](https://solved.ac/ChulgooKim)
+[![Solved Ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kcgkyg)](https://solved.ac/kcgkyg)
 
 
 
 
 ### Embedded Software Assistant Researcher
 
-- Bachelor of Science in Electronics at **Korea Aerospace University (한국항공대학교)**
-- Master of Science in Computer Science at **YonSei University (연세대학교 공학대학원)**
+- Bachelor of Science in Computer Science at **Korea University (고려대학교)**
+- Master of Science in Computer Science at **Korea University (고려대학교 일반대학원)**
 - Joined as a researcher at **Korea Electronics Technology Institute (한국전자기술연구원)**
 
 ### Interest
@@ -28,5 +28,5 @@
 
 <div align = "center">
   
-  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://KimYC1223.github.io/)](https://KimYC1223.github.io/) [![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/kimyc1223)](https://www.facebook.com/profile.php?id=100000498178589) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kimyc1223@gmail.com)](mailto:kimyc1223@gmail.com)
+  [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://ChulgooKim.github.io/)](https://ChulgooKim.github.io/) (https://www.facebook.com/profile.php?id=100000498178589) [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kcgkyg@gmail.com)](mailto:kcgkyg@gmail.com)
 </div>
