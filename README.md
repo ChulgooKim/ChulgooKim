@@ -7,12 +7,9 @@
 
 <br>
 
-[![Github Stats](https://github-readme-stats.vercel.app/api?username=ChulgooKim&amp;count_private=true&amp;hide=contribs,prs&amp;show_icons=true&amp;theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chulgookim&amp;layout=compact&amp;hide=Visual%20Basic)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
-
-[![Solved Ac Tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=kcgkyg)](https://solved.ac/kcgkyg)
-
 
 
 
